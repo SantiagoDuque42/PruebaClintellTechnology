@@ -74,7 +74,7 @@ Es también importante considerar las posibles adiciones o cambios en un futuro 
 
 ### Política del agente optimizador
 
-La política customizada del agente optimizador es simple, y está sujeta a, probablemente, una notable mejora. No obstante, obtiene consistentemente resultados decentes, así que se ha considerado dejarla así.
+La política customizada del agente optimizador es simple, y está sujeta a, probablemente, una notable mejora, quizás por ejemplo añadíendole un componente estocástico. No obstante, obtiene consistentemente resultados decentes, así que se ha considerado dejarla así.
 
 
 ### Eficiencia
